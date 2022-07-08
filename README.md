@@ -3,6 +3,7 @@
 
 #### [selecting rows](https://github.com/SharpAdder/learning-SQL/blob/main/rowSelect.sql)
 #### [select & rename column](https://github.com/SharpAdder/learning-SQL/blob/main/columnSelect.SQL)
+#### [Selecting and deleting entry with id = 4]()
 
 
 
